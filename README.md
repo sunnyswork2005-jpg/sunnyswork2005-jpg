@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Sunny Singh 👋
 
-<!--
-**sunnyswork2005-jpg/sunnyswork2005-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Singh Sunny Arun Rani**, a **Data Analyst** who enjoys working with data and turning it into simple, useful insights.  
+I mostly use **SQL, Excel, and Power BI** to clean data, analyze it, and build clear dashboards.
 
-Here are some ideas to get you started:
+## 🧰 What I’m good at
+- 🗄️ **SQL** (querying data)
+- 📊 **Excel** (cleaning & reporting)
+- 📈 **Power BI** (dashboards)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 What you’ll find here
+- 🧠 Data analysis projects  
+- 🧾 SQL practice + case studies  
+- 📌 Dashboards and reports  
+
+## 🤝 Let’s connect
+- 📧 Email: **ss2419113@gmail.com**
+- 🔗 LinkedIn: *(www.linkedin.com/in/sunny-singh-the-analyst
+
+)*
