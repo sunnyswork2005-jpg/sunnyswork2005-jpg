@@ -14,7 +14,7 @@ I mostly use **SQL, Excel, and Power BI** to clean data, analyze it, and build c
 - 📌 Dashboards and reports  
 
 ## 🤝 Let’s connect
-- 📧 Email: **ss2419113@gmail.com**
-- 🔗 LinkedIn: *(www.linkedin.com/in/sunny-singh-the-analyst
+- 📧 Email: **sunnyswork2005@gmail.com**
+- 🔗 LinkedIn: *(www.linkedin.com/in/sunny-singh-the-analyst)*
 
-)*
+
